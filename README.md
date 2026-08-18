@@ -43,6 +43,7 @@ Aqui estão algumas das linguagens, frameworks, bancos de dados e ferramentas qu
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="" width="28"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="" width="28"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="28"/> &nbsp;
+</br>
 ⚙️ Selenium · Playwright · BeautifulSoup · Pandas · NumPy · Matplotlib · Streamlit · n8n · SoapUI
 
 ---
