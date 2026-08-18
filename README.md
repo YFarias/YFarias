@@ -1,4 +1,5 @@
-# Yuri dos Santos Farias — Desenvolvedor Full Stack | Automação de Processos & RPA
+# Yuri dos Santos Farias 
+Desenvolvedor Full Stack | Automação de Processos & RPA
 
 Desenvolvedor Full Stack com 4 anos de experiência em automação de processos, integração de sistemas e engenharia de dados. Atuação prática em RPA e web scraping (Selenium, Playwright, BeautifulSoup) para coleta e processamento de dados e automação de rotinas operacionais.
 
@@ -24,11 +25,11 @@ Aqui estão algumas das linguagens, frameworks, bancos de dados e ferramentas qu
 
 ### 🧰 Frameworks / Bibliotecas
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="FastAPI" width="32"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="32"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="32"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" alt="Quarkus" width="32"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original-wordmark.svg" alt="" width="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="" width="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="" width="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" alt="" width="32"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="" width="32"/>
 </p>
 
 ### 🗄️ Bancos de Dados
