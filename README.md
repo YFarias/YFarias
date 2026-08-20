@@ -1,7 +1,7 @@
 <div align="center">
 
 # Yuri dos Santos Farias
-### Desenvolvedor Full Stack | Automação de Processos & RPA
+### Desenvolvedor Full Stack | Automação de Processos
 
 [![Email](https://img.shields.io/badge/-yurisfarias%40gmail.com-333333?style=flat&logo=gmail&logoColor=white)](mailto:yurisfarias@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuri-sfarias)
