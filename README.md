@@ -17,7 +17,6 @@ Desenvolvedor Full Stack com 4 anos de experiência em automação de processos,
 
 Hoje trabalho na modernização de sistemas legados para arquiteturas cloud native, com foco em soluções resilientes: tratamento de erros, logs, versionamento e microsserviços.
 
-Aberto a oportunidades em **Full Stack**, **Automação/RPA** e **Engenharia de Dados**.
 
 ---
 
