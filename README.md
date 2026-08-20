@@ -15,7 +15,7 @@
 
 Desenvolvedor Full Stack com 4 anos de experiência em automação de processos, integração de sistemas e engenharia de dados. Migrei de Engenharia Civil para tecnologia em 2021, e desde então venho construindo soluções que vão de pipelines ETL e APIs escaláveis a rotinas de RPA e web scraping que eliminam trabalho manual em operações reais.
 
-Hoje trabalho na modernização de sistemas legados para arquiteturas cloud native, com foco em soluções resilientes: tratamento de erros, logs, versionamento e microsserviços.
+Hoje trabalho na modernização de sistemas legados para arquiteturas cloud native, com foco em soluções escaláveis: tratamento de erros, logs, versionamento e microsserviços.
 
 
 ---
